@@ -6,6 +6,9 @@
   "repository": "git@github.com:arkgast/webpack-hot-reload.git",
   "author": "Arnold Gandarillas Castillo <a.kltrx@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
